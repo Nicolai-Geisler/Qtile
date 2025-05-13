@@ -1,5 +1,7 @@
 # Qtile config
 
+<img src="./preview.png" alt="Qtile desktop" title="Qtile desktop" />
+
 ## What is Qtile?
 
 Qtile is a dynamic, hackable window manager for Linux and other Unix-like operating systems, written entirely in Python.
